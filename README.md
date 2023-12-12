@@ -38,11 +38,11 @@
 <div id="jwplayerDiv"></div>
 <script>  
 jwplayer("jwplayerDiv").setup({
-        file:"https://linear003-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_sm/Live/channel(skysportscricket)/manifest_sd.mpd",
+        file:"https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/manifest.mpd",
       type: "dash",
       drm: { "clearkey": {
-              "keyId": "0003f2a72d21efd159d45a3a74decd84",
-              "key": "df0ec40586d641f3d4728ab5fd62adc3"
+              "keyId": "6a9e4204f3f8577ebf6e79b3b18573f8",
+              "key": "b76d9ac9ee36d0cf61653bed83bee8bd"
             }
              }
 });
