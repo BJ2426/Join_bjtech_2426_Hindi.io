@@ -42,7 +42,7 @@ jwplayer("jwplayerDiv").setup({
       type: "dash",
       drm: { "clearkey": {
               "keyId": "6a9e4204f3f8577ebf6e79b3b18573f8",
-              "key": "b76d9ac9ee36d0cf61653bed83bee8bd"
+              "key": "537f3bebea2eb2ed32af574990124817"
             }
              }
 });
